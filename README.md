@@ -9,7 +9,7 @@
 
 команды также работают в режиме очереди, например:
 
-<img width="1375" height="471" alt="image" src="https://github.com/user-attachments/assets/79ca4949-7007-423b-9d65-15640c27074b" />
+<img width="1375" height="471" alt="image" src="https://github.com/user-attachments/assets/3d3a5252-8853-45fb-ac78-1bef7f729e10" />
 
 2. Чтобы убрать в табе слово БОТ на стороне клиента, нужно открыть файл по пути: __csgo__ -> __resource__ -> __csgo_russian.txt__ и удалить слово БОТ в кавычках в этих строках (Ctrl + F):
 
